@@ -18,7 +18,7 @@ Non-Technical Users:
 - Focus on costs and savings
 """
 
-st.title('Solar Assistant')
+st.title('Solar Industry AI Assistant')
 
 # Session state initialization
 if "messages" not in st.session_state:
